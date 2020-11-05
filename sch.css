@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    
+}
+.menu{
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 0px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 0px;
+    background: white;
+}
+li {
+  display: inline;
+}
+.announcement{
+    margin-top: 50
+}
+
+    
